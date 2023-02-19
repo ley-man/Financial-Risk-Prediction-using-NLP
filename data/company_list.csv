@@ -1,0 +1,573 @@
+Company,Symbol,Date
+3M Company,MMM,20170425
+3M Company,MMM,20170725
+A.O. Smith Corp,AOS,20170726
+Abbott Laboratories,ABT,20171018
+AbbVie Inc.,ABBV,20170427
+AbbVie Inc.,ABBV,20170728
+AbbVie Inc.,ABBV,20171027
+ABIOMED Inc,ABMD,20170504
+Activision Blizzard,ATVI,20170209
+Activision Blizzard,ATVI,20170504
+Adobe Systems Inc,ADBE,20170316
+Advance Auto Parts,AAP,20170524
+Advanced Micro Devices Inc,AMD,20170501
+Advanced Micro Devices Inc,AMD,20170725
+Advanced Micro Devices Inc,AMD,20171024
+AES Corp,AES,20170508
+AES Corp,AES,20171102
+Aetna Inc,AET,20170131
+Aetna Inc,AET,20170502
+Aetna Inc,AET,20171031
+Agilent Technologies Inc,A,20170214
+Akamai Technologies Inc,AKAM,20170207
+Akamai Technologies Inc,AKAM,20170502
+Alaska Air Group Inc,ALK,20170208
+Alaska Air Group Inc,ALK,20171025
+Alexion Pharmaceuticals,ALXN,20171026
+Align Technology,ALGN,20170131
+Align Technology,ALGN,20170427
+Align Technology,ALGN,20170727
+Allegion,ALLE,20170209
+Allegion,ALLE,20170427
+"Allergan, Plc",AGN,20170803
+Alliance Data Systems,TODO,20170126
+Alliance Data Systems,TODO,20170420
+Alliance Data Systems,TODO,20171019
+Altria Group Inc,MO,20170502
+Altria Group Inc,MO,20170727
+Altria Group Inc,MO,20171026
+Amazon.com Inc.,AMZN,20170202
+Amazon.com Inc.,AMZN,20170427
+Ameren Corp,AEE,20170216
+American Express Co,AXP,20170419
+American Express Co,AXP,20170719
+American Express Co,AXP,20171018
+American Tower Corp A,AMT,20170227
+American Tower Corp A,AMT,20170427
+AmerisourceBergen Corp,ABC,20170131
+AmerisourceBergen Corp,ABC,20170504
+AmerisourceBergen Corp,ABC,20170803
+AmerisourceBergen Corp,ABC,20171102
+AMETEK Inc.,AME,20170207
+AMETEK Inc.,AME,20170802
+Amgen Inc.,AMGN,20170725
+Amgen Inc.,AMGN,20171025
+Anthem Inc.,ELV,20170201
+Anthem Inc.,ELV,20170426
+Anthem Inc.,ELV,20170726
+Aon plc,AON,20170509
+Aon plc,AON,20171027
+Apache Corporation,APA,20170223
+Apache Corporation,APA,20171102
+Archer-Daniels-Midland Co,ADM,20170207
+Archer-Daniels-Midland Co,ADM,20170502
+Archer-Daniels-Midland Co,ADM,20170801
+Archer-Daniels-Midland Co,ADM,20171031
+AT&T Inc.,T,20170425
+AT&T Inc.,T,20171024
+Autodesk Inc.,ADSK,20170302
+Automatic Data Processing,ADP,20170201
+Automatic Data Processing,ADP,20170503
+Automatic Data Processing,ADP,20170727
+Automatic Data Processing,ADP,20171102
+Avery Dennison Corp,AVY,20170201
+Avery Dennison Corp,AVY,20170426
+Avery Dennison Corp,AVY,20170725
+Avery Dennison Corp,AVY,20171025
+Ball Corp,BALL,20170504
+Ball Corp,BALL,20170803
+Ball Corp,BALL,20171102
+Baxter International Inc.,BAX,20170426
+Baxter International Inc.,BAX,20170726
+Becton Dickinson,BDX,20170803
+Becton Dickinson,BDX,20171102
+Biogen Inc.,BIIB,20170126
+Boeing Company,BA,20170426
+Booking Holdings Inc,BKNG,20170509
+Booking Holdings Inc,BKNG,20171106
+BorgWarner,BWA,20170209
+BorgWarner,BWA,20170727
+Bristol-Myers Squibb,BMY,20170427
+Bristol-Myers Squibb,BMY,20170727
+Broadridge Financial Solutions,BR,20170510
+"CA, Inc.",CA,20170802
+Cadence Design Systems,CDNS,20170724
+Campbell Soup,CPB,20170217
+Campbell Soup,CPB,20170519
+Campbell Soup,CPB,20170831
+Campbell Soup,CPB,20171121
+Cardinal Health Inc.,CAH,20170501
+Carmax Inc,KMX,20170922
+Carmax Inc,KMX,20171221
+Caterpillar Inc.,CAT,20170126
+Caterpillar Inc.,CAT,20170425
+Caterpillar Inc.,CAT,20170725
+Caterpillar Inc.,CAT,20171024
+Cboe Global Markets,CBOE,20170804
+CBRE Group,CBRE,20171103
+CBS Corp.,PARA,20170807
+CBS Corp.,PARA,20171102
+Celgene Corp.,CELG,20170126
+Celgene Corp.,CELG,20170427
+Celgene Corp.,CELG,20170727
+Celgene Corp.,CELG,20171026
+CenturyLink Inc,LUMN,20170802
+CenturyLink Inc,LUMN,20171108
+Chevron Corp.,CVX,20170127
+Chevron Corp.,CVX,20170428
+Chevron Corp.,CVX,20170728
+Church & Dwight,CHD,20170803
+Church & Dwight,CHD,20171102
+CIGNA Corp.,CI,20170202
+CIGNA Corp.,CI,20170505
+CIGNA Corp.,CI,20170804
+Cimarex Energy,XEC,20170510
+Cisco Systems,CSCO,20170215
+Cisco Systems,CSCO,20171115
+Citigroup Inc.,C,20170118
+Citigroup Inc.,C,20171012
+Citrix Systems,CTXS,20170802
+CME Group Inc.,CME,20171026
+CMS Energy,CMS,20170202
+CMS Energy,CMS,20170501
+CMS Energy,CMS,20171026
+Coca-Cola Company (The),KO,20170209
+Coca-Cola Company (The),KO,20170726
+Cognizant Technology Solutions,CTSH,20170803
+Cognizant Technology Solutions,CTSH,20171101
+Comcast Corp.,CMCSA,20170126
+Comcast Corp.,CMCSA,20170427
+Comcast Corp.,CMCSA,20170727
+Comerica Inc.,CMA,20170117
+Comerica Inc.,CMA,20170418
+Conagra Brands,CAG,20171221
+Corning Inc.,GLW,20170124
+"Coty, Inc",COTY,20170209
+"Coty, Inc",COTY,20170822
+"Coty, Inc",COTY,20171109
+Crown Castle International Corp.,CCI,20170719
+Cummins Inc.,CMI,20170801
+CVS Health,CVS,20170209
+D. R. Horton,DHI,20170124
+Darden Restaurants,DRI,20170926
+Darden Restaurants,DRI,20171219
+DaVita Inc.,DVA,20170502
+DaVita Inc.,DVA,20170801
+Digital Realty Trust Inc,DLR,20170216
+Digital Realty Trust Inc,DLR,20170427
+Dish Network,DISH,20170222
+Dish Network,DISH,20170501
+Dish Network,DISH,20170803
+Dish Network,DISH,20171109
+Dollar General,DG,20171207
+Dominion Energy,D,20170504
+Dominion Energy,D,20170802
+Dominion Energy,D,20171030
+Dover Corp.,DOV,20170420
+Dover Corp.,DOV,20170720
+DTE Energy Co.,DTE,20170726
+Duke Energy,DUK,20171103
+eBay Inc.,EBAY,20170125
+eBay Inc.,EBAY,20170419
+eBay Inc.,EBAY,20170720
+Ecolab Inc.,ECL,20170221
+Ecolab Inc.,ECL,20170502
+Ecolab Inc.,ECL,20170801
+Ecolab Inc.,ECL,20171031
+Edison Int'l,EIX,20170501
+Edwards Lifesciences,EW,20170201
+Electronic Arts,EA,20171031
+Emerson Electric Company,EMR,20170207
+Emerson Electric Company,EMR,20170502
+EQT Corporation,EQT,20170427
+EQT Corporation,EQT,20170727
+Equinix,EQIX,20170802
+Equinix,EQIX,20171101
+Estee Lauder Cos.,EL,20170202
+Estee Lauder Cos.,EL,20170503
+Estee Lauder Cos.,EL,20170818
+Estee Lauder Cos.,EL,20171101
+Exxon Mobil Corp.,XOM,20171027
+F5 Networks,FFIV,20170125
+F5 Networks,FFIV,20170426
+F5 Networks,FFIV,20170726
+"Facebook, Inc.",FB,20171101
+Fidelity National Information Services,FIS,20170207
+Fidelity National Information Services,FIS,20170802
+Fifth Third Bancorp,FITB,20170124
+FleetCor Technologies Inc,FLT,20170803
+FLIR Systems,FLIR ,20171025
+Foot Locker Inc,FL,20170224
+Foot Locker Inc,FL,20170519
+Foot Locker Inc,FL,20171117
+Ford Motor,F,20170427
+Fortive Corp,FTV,20170207
+Fortune Brands Home & Security,FBIN,20170802
+Franklin Resources,BEN,20170127
+Franklin Resources,BEN,20170428
+Freeport-McMoRan Inc.,FCX,20170425
+Gap Inc.,GPS,20170223
+Gap Inc.,GPS,20170518
+Garmin Ltd.,GRMN,20170222
+Garmin Ltd.,GRMN,20170503
+Garmin Ltd.,GRMN,20171101
+Gartner Inc, IT,20170202
+Gartner Inc, IT,20170504
+Gartner Inc, IT,20170808
+Gartner Inc, IT,20171102
+General Dynamics,GD,20170127
+General Dynamics,GD,20170426
+General Dynamics,GD,20171025
+General Growth Properties Inc.,GGP,20170501
+General Growth Properties Inc.,GGP,20170802
+General Mills,GIS,20170628
+General Mills,GIS,20171220
+General Motors,GM,20170207
+General Motors,GM,20170428
+General Motors,GM,20170725
+General Motors,GM,20171024
+Genuine Parts,GPC,20170221
+Gilead Sciences,GILD,20170502
+Goldman Sachs Group,GS,20170118
+Goldman Sachs Group,GS,20170718
+Goodyear Tire & Rubber,GT,20170428
+Grainger (W.W.) Inc.,GWW,20170125
+Grainger (W.W.) Inc.,GWW,20170418
+Grainger (W.W.) Inc.,GWW,20170719
+Halliburton Co.,HAL,20171023
+Hanesbrands Inc,HBI,20170502
+Hanesbrands Inc,HBI,20171101
+Harris Corporation,LHX,20170801
+Hasbro Inc.,HAS,20170206
+Hasbro Inc.,HAS,20170424
+Hasbro Inc.,HAS,20171023
+HCA Holdings,HCA,20170502
+Henry Schein,HSIC,20170221
+Hess Corporation,HES,20170125
+Hess Corporation,HES,20170426
+Hess Corporation,HES,20171025
+Hewlett Packard Enterprise,HPE,20170531
+Hewlett Packard Enterprise,HPE,20170905
+Hewlett Packard Enterprise,HPE,20171121
+Hilton Worldwide Holdings Inc,HLT,20170215
+Hilton Worldwide Holdings Inc,HLT,20170502
+Hologic,HOLX,20170201
+Hologic,HOLX,20170802
+Hologic,HOLX,20171108
+Home Depot,HD,20170221
+Home Depot,HD,20170516
+Hormel Foods Corp.,HRL,20170223
+HP Inc.,HPQ,20170222
+HP Inc.,HPQ,20170524
+HP Inc.,HPQ,20170823
+HP Inc.,HPQ,20171121
+Humana Inc.,HUM,20170503
+Humana Inc.,HUM,20170802
+Illinois Tool Works,ITW,20170424
+Illinois Tool Works,ITW,20171023
+Illumina Inc,ILMN,20170131
+Illumina Inc,ILMN,20170801
+Illumina Inc,ILMN,20171024
+Incyte,INCY,20170214
+Incyte,INCY,20170504
+Incyte,INCY,20170801
+Ingersoll-Rand PLC,IR,20170201
+Ingersoll-Rand PLC,IR,20170426
+Intel Corp.,INTC,20170427
+Intel Corp.,INTC,20170727
+Intel Corp.,INTC,20171026
+Intercontinental Exchange,ICE,20170207
+International Paper,IP,20170202
+Interpublic Group,IPG,20170210
+Interpublic Group,IPG,20170421
+Intuit Inc.,INTU,20170223
+Intuit Inc.,INTU,20170523
+Invesco Ltd.,IVZ,20170727
+Invesco Ltd.,IVZ,20171026
+IPG Photonics Corp.,IPGP,20170502
+Iron Mountain Incorporated,IRM,20170223
+Iron Mountain Incorporated,IRM,20170427
+Johnson Controls International,JCI,20170201
+Johnson Controls International,JCI,20170427
+Johnson Controls International,JCI,20170727
+Johnson Controls International,JCI,20171109
+JPMorgan Chase & Co.,JPM,20170714
+JPMorgan Chase & Co.,JPM,20171012
+Juniper Networks,JNPR,20170425
+Juniper Networks,JNPR,20170725
+Kansas City Southern,KSU,20170120
+Kansas City Southern,KSU,20171020
+Kellogg Co.,K,20170504
+Kellogg Co.,K,20170803
+Kellogg Co.,K,20171031
+Kimberly-Clark,KMB,20170124
+Kimberly-Clark,KMB,20170424
+Kimberly-Clark,KMB,20170725
+Kinder Morgan,KMI,20170419
+KLA-Tencor Corp.,KLAC,20170427
+KLA-Tencor Corp.,KLAC,20170727
+Kohl's Corp.,KSS,20170223
+Kohl's Corp.,KSS,20170511
+Kohl's Corp.,KSS,20171109
+Kraft Heinz Co,KHC,20170215
+Kraft Heinz Co,KHC,20170503
+Kraft Heinz Co,KHC,20171101
+Kroger Co.,KR,20170302
+Kroger Co.,KR,20170615
+Kroger Co.,KR,20170908
+Kroger Co.,KR,20171130
+Lam Research,LRCX,20170125
+Lam Research,LRCX,20170418
+Lennar Corp.,LEN,20170620
+Lennar Corp.,LEN,20171003
+Lilly (Eli) & Co.,LLY,20170131
+Lilly (Eli) & Co.,LLY,20170425
+LKQ Corporation,LKQ,20170427
+LKQ Corporation,LKQ,20170727
+Lockheed Martin Corp.,LMT,20170124
+Lockheed Martin Corp.,LMT,20170425
+Lockheed Martin Corp.,LMT,20170718
+Lockheed Martin Corp.,LMT,20171024
+Lowe's Cos.,LOW,20170524
+Lowe's Cos.,LOW,20170823
+Lowe's Cos.,LOW,20171121
+LyondellBasell,LYB,20170203
+Marsh & McLennan,MMC,20170727
+Marsh & McLennan,MMC,20171026
+Martin Marietta Materials,MLM,20170214
+Martin Marietta Materials,MLM,20170502
+Martin Marietta Materials,MLM,20170801
+Martin Marietta Materials,MLM,20171102
+Masco Corp.,MAS,20170727
+Masco Corp.,MAS,20171024
+Mastercard Inc.,MA,20170131
+Mastercard Inc.,MA,20170727
+Mattel Inc.,MAT,20170727
+Mattel Inc.,MAT,20171026
+McDonald's Corp.,MCD,20171024
+Merck & Co.,MRK,20170202
+Merck & Co.,MRK,20170502
+Merck & Co.,MRK,20170728
+Merck & Co.,MRK,20171027
+MGM Resorts International,MGM,20170727
+Michael Kors Holdings,CPRI,20170207
+Micron Technology,MU,20170629
+Micron Technology,MU,20170926
+Microsoft Corp.,MSFT,20170126
+Microsoft Corp.,MSFT,20170427
+Microsoft Corp.,MSFT,20170720
+Molson Coors Brewing Company,TAP,20170802
+Mondelez International,MDLZ,20170802
+Motorola Solutions Inc.,MSI,20170504
+Motorola Solutions Inc.,MSI,20170803
+Motorola Solutions Inc.,MSI,20171102
+MSCI Inc,MSCI,20170504
+Mylan N.V.,VTRS,20170510
+"Nasdaq, Inc.",NDAQ,20170131
+Nektar Therapeutics,NKTR,20170301
+Nektar Therapeutics,NKTR,20171107
+NetApp,NTAP,20170215
+NetApp,NTAP,20171115
+Newell Brands,NWL,20170206
+Newmont Mining Corporation,NEM,20170725
+News Corp. Class A,NWSA,20170509
+Nielsen Holdings,NLSN,20170727
+Nielsen Holdings,NLSN,20171025
+Nike,NKE,20170321
+NiSource Inc.,NI,20170503
+Noble Energy Inc,NBL,20170803
+Nordstrom,JWN,20170223
+Nordstrom,JWN,20171109
+Norfolk Southern Corp.,NSC,20170426
+Norfolk Southern Corp.,NSC,20171025
+Norwegian Cruise Line,NCLH,20170222
+NRG Energy,NRG,20170228
+Nucor Corp.,NUE,20170420
+Nucor Corp.,NUE,20171019
+Nvidia Corporation,NVDA,20170509
+Oracle Corp.,ORCL,20170621
+Oracle Corp.,ORCL,20170914
+Oracle Corp.,ORCL,20171214
+PACCAR Inc.,PCAR,20170725
+PACCAR Inc.,PCAR,20171024
+Parker-Hannifin,PH,20170202
+Parker-Hannifin,PH,20170427
+Parker-Hannifin,PH,20171102
+PayPal,PYPL,20170126
+PayPal,PYPL,20170726
+Pentair plc,PNR,20170725
+PepsiCo Inc.,PEP,20170215
+PepsiCo Inc.,PEP,20170426
+PepsiCo Inc.,PEP,20170711
+PepsiCo Inc.,PEP,20171004
+PerkinElmer,PKI,20171102
+Perrigo,PRGO,20171109
+PG&E Corp.,PCG,20170727
+Pinnacle West Capital,PNW,20170224
+Pinnacle West Capital,PNW,20170502
+Pinnacle West Capital,PNW,20170803
+Pinnacle West Capital,PNW,20171103
+Polo Ralph Lauren Corp.,RL,20170202
+Polo Ralph Lauren Corp.,RL,20171102
+PPG Industries,PPG,20170119
+PPL Corp.,PPL,20170201
+PPL Corp.,PPL,20170504
+PPL Corp.,PPL,20170803
+Prologis,PLD,20170718
+Public Serv. Enterprise Inc.,PEG,20170428
+Quanta Services Inc.,PWR,20170221
+Quanta Services Inc.,PWR,20170504
+Quanta Services Inc.,PWR,20170803
+Quest Diagnostics,DGX,20170420
+Quest Diagnostics,DGX,20170725
+Raytheon Co.,RTX,20170427
+Raytheon Co.,RTX,20171026
+Red Hat Inc.,RHT,20170327
+Red Hat Inc.,RHT,20170925
+Red Hat Inc.,RHT,20171219
+Regeneron,REGN,20170504
+Regeneron,REGN,20170803
+Regeneron,REGN,20171108
+Regions Financial Corp.,RF,20170721
+Regions Financial Corp.,RF,20171024
+Republic Services Inc,RSG,20170216
+Republic Services Inc,RSG,20170727
+ResMed,RMD,20170123
+ResMed,RMD,20170427
+ResMed,RMD,20171026
+Rockwell Automation Inc.,ROK,20170125
+Rockwell Automation Inc.,ROK,20170426
+Rockwell Automation Inc.,ROK,20170726
+Roper Technologies,ROP,20170209
+Ross Stores,ROST,20170228
+Ross Stores,ROST,20170518
+Ross Stores,ROST,20170817
+Ross Stores,ROST,20171116
+Royal Caribbean Cruises Ltd,RCL,20170801
+Royal Caribbean Cruises Ltd,RCL,20171107
+Salesforce.com,CRM,20170228
+Salesforce.com,CRM,20170822
+SCANA Corp,SCG,20170427
+SCANA Corp,SCG,20170803
+Schlumberger Ltd.,SLB,20170421
+Schlumberger Ltd.,SLB,20170721
+Seagate Technology,STX,20170124
+Seagate Technology,STX,20170426
+Seagate Technology,STX,20170725
+Seagate Technology,STX,20171023
+Sealed Air,SEE,20170209
+Sealed Air,SEE,20170509
+Sealed Air,SEE,20171108
+Sempra Energy,SRE,20170509
+Sherwin-Williams,SHW,20170420
+Sherwin-Williams,SHW,20170720
+Skyworks Solutions,SWKS,20170119
+Skyworks Solutions,SWKS,20170427
+Skyworks Solutions,SWKS,20170720
+Skyworks Solutions,SWKS,20171106
+Snap-On Inc.,SNA,20170202
+Snap-On Inc.,SNA,20170720
+Starbucks Corp.,SBUX,20170126
+Stericycle Inc,SRCL,20170504
+Stericycle Inc,SRCL,20170803
+Stericycle Inc,SRCL,20171108
+Stryker Corp.,SYK,20170727
+Stryker Corp.,SYK,20171026
+SunTrust Banks,STI,20170120
+SunTrust Banks,STI,20171020
+SVB Financial,SIVB,20170126
+SVB Financial,SIVB,20170427
+Symantec Corp.,SYMC,20170510
+Synopsys Inc.,SNPS,20170215
+Synopsys Inc.,SNPS,20170517
+Synopsys Inc.,SNPS,20171129
+Sysco Corp.,SYY,20170508
+Sysco Corp.,SYY,20170814
+Sysco Corp.,SYY,20171106
+"Tapestry, Inc.",TPR,20170131
+Target Corp.,TGT,20170816
+Target Corp.,TGT,20171115
+TE Connectivity Ltd.,TEL,20170125
+TE Connectivity Ltd.,TEL,20170726
+Texas Instruments,TXN,20170124
+Texas Instruments,TXN,20170425
+Texas Instruments,TXN,20171024
+The Bank of New York Mellon Corp.,BK,20170720
+The Clorox Company,CLX,20170203
+The Clorox Company,CLX,20170503
+The Clorox Company,CLX,20170803
+The Clorox Company,CLX,20171101
+The Cooper Companies,COO,20170831
+The Hershey Company,HSY,20170203
+The Hershey Company,HSY,20170426
+The Hershey Company,HSY,20171026
+The Mosaic Company,MOS,20170502
+The Mosaic Company,MOS,20170801
+The Mosaic Company,MOS,20171031
+The Walt Disney Company,DIS,20170207
+The Walt Disney Company,DIS,20170509
+The Walt Disney Company,DIS,20170808
+The Walt Disney Company,DIS,20171109
+Thermo Fisher Scientific,TMO,20170426
+Tiffany & Co.,TIF,20170524
+Tractor Supply Company,TSCO,20170201
+Tractor Supply Company,TSCO,20170426
+Tractor Supply Company,TSCO,20170726
+Tractor Supply Company,TSCO,20171025
+TransDigm Group,TDG,20170207
+"Twitter, Inc.",TWTR,20170209
+"Twitter, Inc.",TWTR,20170426
+"Twitter, Inc.",TWTR,20170727
+Tyson Foods,TSN,20170206
+U.S. Bancorp,USB,20170419
+U.S. Bancorp,USB,20170719
+Ulta Beauty,ULTA,20170309
+Ulta Beauty,ULTA,20171130
+United Health Group Inc.,UNH,20170418
+United Health Group Inc.,UNH,20171017
+United Parcel Service,UPS,20170727
+United Technologies,UTX,20170725
+United Technologies,UTX,20171024
+Valero Energy,VLO,20170131
+Valero Energy,VLO,20170425
+Valero Energy,VLO,20170727
+Varian Medical Systems,VAR,20170125
+Varian Medical Systems,VAR,20171025
+Ventas,VTR,20171027
+Verisign Inc.,VRSN,20170427
+Verisign Inc.,VRSN,20170727
+Verisign Inc.,VRSN,20171026
+Verizon Communications,VZ,20170124
+Verizon Communications,VZ,20170420
+Verizon Communications,VZ,20170727
+Verizon Communications,VZ,20171019
+Viacom Inc.,VIAB,20171116
+Vulcan Materials,VMC,20170802
+Walgreens Boots Alliance,WBA,20170405
+Walgreens Boots Alliance,WBA,20170629
+Walgreens Boots Alliance,WBA,20171025
+Walmart,WMT,20171116
+Waste Management Inc.,WM,20170216
+Waste Management Inc.,WM,20170726
+Waste Management Inc.,WM,20171026
+Wec Energy Group Inc,WEC,20170201
+Wec Energy Group Inc,WEC,20170502
+Wec Energy Group Inc,WEC,20171026
+Welltower Inc.,WELL,20170505
+Western Digital,WDC,20171026
+Western Union Co,WU,20170502
+Western Union Co,WU,20171102
+WestRock,WRK,20170124
+WestRock,WRK,20170426
+WestRock,WRK,20171102
+Weyerhaeuser,WY,20170203
+Weyerhaeuser,WY,20170428
+Xcel Energy Inc,XEL,20170202
+Xcel Energy Inc,XEL,20170727
+Xerox,XRX,20170425
+Xerox,XRX,20170801
+Xilinx,XLNX,20170426
+XL Group,XL,20171024
+Yum! Brands Inc,YUM,20170209
+Yum! Brands Inc,YUM,20170803
